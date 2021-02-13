@@ -4,3 +4,4 @@ matplotlib==3.3.*
 pandas==1.2.*
 pdpbox==0.2.*
 scikit-learn==0.24.*
+shap==0.3.*
